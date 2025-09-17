@@ -1,4 +1,4 @@
-# Telegram Bot (Whisper + MarianMT + GoEmotions)
+# SentimentalTranslator_bot - Telegram Bot (Whisper + MarianMT + GoEmotions)
 
 This project is a Telegram bot built with **python-telegram-bot**, which supports:
 
