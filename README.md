@@ -120,7 +120,6 @@ Send text (English or Spanish). The bot replies with:
 ```
 .
 ├── bot.py               # Main bot class (BotApp)
-├── requirements.txt     # Dependencies
 ├── README.md
 └── utils/               # Helper modules
     ├── __init__.py
